@@ -1,0 +1,24 @@
+<style>
+
+body{
+	background-color: lightblue;
+}
+
+h1 {
+	color:white ;
+	text-align: center;
+}
+
+p{ 
+	color:blue;
+	text-align: center;
+}
+p { 
+	outline-color: black;
+	text-align: center;
+}
+
+
+
+</style>
+
